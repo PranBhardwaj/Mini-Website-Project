@@ -2,7 +2,7 @@
 layout: default
 ---
 
-* {% include ListofGames.md %}
+{% include ListofGames.md %}
 
 <br>
 
