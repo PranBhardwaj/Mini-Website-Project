@@ -2,19 +2,19 @@
 layout: default
 ---
 
-{% include ListofGames.md %}
+* {% include ListofGames.md %}
 
 <br>
 
-{% include Halo.md %}
+* {% include Halo.md %}
 
 <br> 
 
-{% include Overwatch.md %}
+* {% include Overwatch.md %}
 
 <br>
 
-{% include Minecraft.md %}
+* {% include Minecraft.md %}
 
 
 
