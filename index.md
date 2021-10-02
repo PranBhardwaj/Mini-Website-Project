@@ -7,7 +7,7 @@ layout: default
 <br>
 
 * {% include Halo.md %}
-  {% page Halo-Infinite.md %}
+
 <br> 
 
 * {% include Overwatch.md %}
