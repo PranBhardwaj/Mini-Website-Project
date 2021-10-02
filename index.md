@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-* [{% include Halo.md %}](https://pranbhardwaj.github.io/Mini-Website-Project/games/Halo)
+* [{% include Halo.md %}](https://pranbhardwaj.github.io/Mini-Website-Project/games/Halo/)
 
 <br> 
 
