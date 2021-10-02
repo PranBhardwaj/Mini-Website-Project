@@ -6,8 +6,8 @@ layout: default
 
 <br>
 
-* [{% include Halo.md %}](https://pranbhardwaj.github.io/Mini-Website-Project/games/Halo/)
-
+* {% include Halo.md %}
+  {% include Halo-Infinite.md %}
 <br> 
 
 * {% include Overwatch.md %}
