@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Halo Ininite"
+theme: jekyll-theme-slate
 permalink: /HaloInfinite/
 ---
 
