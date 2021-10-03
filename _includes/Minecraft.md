@@ -1,4 +1,4 @@
-## Minecraft
+## [Minecraft](https://pranbhardwaj.github.io/Mini-Website-Project/MinecraftInfo/)
 
 ![Minecraft](https://www.minecraft.net/content/dam/archive/og-image/minecraft-hero-og.jpg)
 
